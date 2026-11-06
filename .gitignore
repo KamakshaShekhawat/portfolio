@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Office lock/temp files
+~$*
+
+# Editable resume drafts stay local; the site serves assets/resume/*.pdf
+*.docx
